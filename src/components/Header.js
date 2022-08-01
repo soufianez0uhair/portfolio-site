@@ -48,7 +48,7 @@ const Header = ({handleCurrentProject}) => {
             <section className="about">
                 <h1 className="about__title">// About me</h1>
                 <p className="about__text">
-                    I'm Soufiane Zouhair, a Web Developer focusing on Frontend Engineering. I use ReactJs to make interactive and modern web apps. I believe we live in the technology empire era, so I don't want to be left behind! I constantly learn new things every day! If you've any interest in my skills, please check my contact info via contact folder.
+                    I'm Soufiane Zouhair, a Web Developer focusing on Frontend Engineering. I use ReactJs to make interactive and modern web apps. I believe we live in the technology empire era, so I don't want to be left behind, I constantly learn new things every day! If you've any interest in my skills, please check my contact info via contact folder. <br /> HTML | CSS | SASS | JS | REACT | REDUX | RTK
                 </p>
             </section>
             <ul className="navbar">
