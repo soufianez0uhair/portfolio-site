@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.bb6b02f9.css",
+    "main.js": "/portfolio-site/static/js/main.34498657.js",
+    "static/media/doge-music-player.gif": "/portfolio-site/static/media/doge-music-player.5a96a0c95b09b5035ce7.gif",
+    "static/media/openedFolder.png": "/portfolio-site/static/media/openedFolder.e981fa25c80347faac77.png",
+    "static/media/globe.png": "/portfolio-site/static/media/globe.1c9c98731ba5d6a5e78b.png",
+    "static/media/file.png": "/portfolio-site/static/media/file.3b4f0fd7503bbc513624.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.bb6b02f9.css.map": "/portfolio-site/static/css/main.bb6b02f9.css.map",
+    "main.34498657.js.map": "/portfolio-site/static/js/main.34498657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6b02f9.css",
+    "static/js/main.34498657.js"
+  ]
+}
