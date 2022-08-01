@@ -1,0 +1,21 @@
+.folder {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    &:hover {
+        text-decoration: underline;
+    }
+    &__img {
+        width: 4rem;
+        &--2 {
+            width: 2rem;
+            margin: 0 1rem;
+        }
+    }
+}
+
+.projects,.links {
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+

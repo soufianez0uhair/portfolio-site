@@ -1,0 +1,13 @@
+.project {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: .5rem;
+    cursor: pointer;
+    &:hover {
+        text-decoration: underline;
+    }
+    &__img {
+        width: 2rem;
+    }
+}

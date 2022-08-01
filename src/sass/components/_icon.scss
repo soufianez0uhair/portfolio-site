@@ -1,0 +1,12 @@
+.icon {
+    font-size: 2rem;
+    &--github {
+        transition: transform .2s ease-in;
+        &:hover {
+            transform: scale(1.1) rotate(50deg);
+        }
+    }
+    &--arrow {
+        font-size: 1.3rem;
+    }
+}
